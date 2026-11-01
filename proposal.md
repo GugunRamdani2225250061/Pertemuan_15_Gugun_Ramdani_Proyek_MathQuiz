@@ -1,6 +1,4 @@
-
-# PROPOSAL PROYEK AKHIR
-# MATHQUIZ
+# PROPOSAL PROYEK AKHIR MATHQUIZ
 ## Program Generator dan Evaluasi Latihan Soal Matematika Berbasis Python
 
 ### 1. Latar Belakang
