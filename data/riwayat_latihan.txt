@@ -1,0 +1,2 @@
+01-11-2026 10:30:23 | Gugun Ramdani | Nilai: 90.00 | Benar: 9 | Salah: 1
+01-11-2026 10:32:06 | Meyliana Solihah | Nilai: 100.00 | Benar: 10 | Salah: 0
