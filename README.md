@@ -1,8 +1,8 @@
 ## Pengembang MathQuiz & Kontribusi
 
-Nama: Gugun Ramdani
-NIM: 2225250061
-Program Studi: S1 Pendidikan Matematika FKIP Untirta
+- Nama: Gugun Ramdani
+- NIM: 2225250061
+- Program Studi: S1 Pendidikan Matematika FKIP Untirta
 
 Kontribusi:
 - Perancangan program.
@@ -11,14 +11,10 @@ Kontribusi:
 - Dokumentasi proyek.
 - Pengelolaan repositori GitHub.
 
-
 ### Program Generator dan Evaluasi Latihan Soal Matematika Berbasis Python
 
 ## Deskripsi
-MathQuiz adalah program Python berbasis terminal
-untuk menghasilkan soal matematika secara acak,
-memeriksa jawaban, menghitung nilai, dan menyimpan
-riwayat latihan pengguna.
+MathQuiz adalah program Python berbasis terminal untuk menghasilkan soal matematika secara acak, memeriksa jawaban, menghitung nilai, dan menyimpan riwayat latihan pengguna.
 
 ## Fitur
 - Generator 10 soal matematika secara acak.
@@ -40,10 +36,6 @@ Buka terminal pada folder proyek, kemudian jalankan:
 python src/main.py
 
 ## Pengujian
-Jalankan perintah:
-
-python -m unittest discover -s tests -v
-
 Pengujian meliputi:
 - Generator soal.
 - Pemeriksaan jawaban.
@@ -53,8 +45,7 @@ Pengujian meliputi:
 - Jawaban salah.
 
 ## Struktur Folder
-
-MathQuiz/
+Pertemuan 15_Gugun Ramdani_Proyek_MathQuiz
 - README.md
 - proposal.md
 - .gitignore
