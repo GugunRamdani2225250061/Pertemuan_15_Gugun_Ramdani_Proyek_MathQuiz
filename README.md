@@ -26,7 +26,7 @@ MathQuiz adalah program Python berbasis terminal untuk menghasilkan soal matemat
 - Penyimpanan riwayat latihan.
 
 ## Persyaratan
-- Python 3.x
+- Python 3
 - Visual Studio Code
 - Git dan GitHub
 
