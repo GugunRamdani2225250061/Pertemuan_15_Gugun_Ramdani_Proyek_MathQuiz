@@ -37,7 +37,7 @@ matematika secara mandiri.
 ### 5. Kebutuhan Program
 
 #### A. Perangkat Lunak
-- Python 3.x
+- Python 3
 - Visual Studio Code
 - Git dan GitHub
 
